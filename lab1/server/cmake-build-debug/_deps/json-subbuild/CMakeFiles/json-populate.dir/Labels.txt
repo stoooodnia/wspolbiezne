@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/server/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule

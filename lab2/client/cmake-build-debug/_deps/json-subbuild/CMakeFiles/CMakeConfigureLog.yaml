@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/homebrew/Cellar/cmake/HEAD-25eddc2/share/cmake/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Darwin - 21.4.0 - arm64
+...

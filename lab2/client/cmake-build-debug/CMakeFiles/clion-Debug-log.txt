@@ -1,0 +1,13 @@
+/opt/homebrew/Cellar/cmake/HEAD-25eddc2/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab2/client -B /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab2/client/cmake-build-debug
+CMake Error: The current CMakeCache.txt directory /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab2/client/cmake-build-debug/_deps/json-subbuild/CMakeCache.txt is different than the directory /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at /opt/homebrew/Cellar/cmake/HEAD-25eddc2/share/cmake/Modules/FetchContent.cmake:1641 (message):
+  CMake step for json failed: 1
+Call Stack (most recent call first):
+  /opt/homebrew/Cellar/cmake/HEAD-25eddc2/share/cmake/Modules/FetchContent.cmake:1793:EVAL:2 (__FetchContent_directPopulate)
+  /opt/homebrew/Cellar/cmake/HEAD-25eddc2/share/cmake/Modules/FetchContent.cmake:1793 (cmake_language)
+  /opt/homebrew/Cellar/cmake/HEAD-25eddc2/share/cmake/Modules/FetchContent.cmake:2007 (FetchContent_Populate)
+  CMakeLists.txt:9 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,5 @@
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/CMakeFiles/client.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir

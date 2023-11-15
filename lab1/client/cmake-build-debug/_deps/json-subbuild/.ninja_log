@@ -1,0 +1,21 @@
+# ninja log v5
+0	11	1696502892962591443	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	e55a764cc8c13142
+710	720	1696502893670896957	json-populate-prefix/src/json-populate-stamp/json-populate-patch	980325a8cc34bd6b
+710	720	1696502893670896957	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	980325a8cc34bd6b
+737	745	1696502893696042357	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	b183c820c5383816
+720	729	1696502893680115646	json-populate-prefix/src/json-populate-stamp/json-populate-configure	a9206442ee057498
+0	11	1696502892962591443	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	e55a764cc8c13142
+698	710	1696502893660598264	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	6996e57953506e55
+12	698	1696502893648580587	json-populate-prefix/src/json-populate-stamp/json-populate-download	6d3ddea36d32841b
+737	745	1696502893696042357	json-populate-prefix/src/json-populate-stamp/json-populate-install	b183c820c5383816
+12	698	1696502893648580587	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	6d3ddea36d32841b
+720	729	1696502893680115646	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	a9206442ee057498
+729	737	1696502893688233830	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	600544d77221240c
+752	764	1696502893715585572	CMakeFiles/json-populate-complete	8e27514a5c86a315
+729	737	1696502893688233830	json-populate-prefix/src/json-populate-stamp/json-populate-build	600544d77221240c
+752	764	1696502893715585572	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	8e27514a5c86a315
+745	752	1696502893703415358	json-populate-prefix/src/json-populate-stamp/json-populate-test	aae6672f334b1ce9
+752	764	1696502893715585572	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	8e27514a5c86a315
+698	710	1696502893660598264	json-populate-prefix/src/json-populate-stamp/json-populate-update	6996e57953506e55
+745	752	1696502893703415358	/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab1/client/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	aae6672f334b1ce9
+752	764	1696502893715585572	json-populate-prefix/src/json-populate-stamp/json-populate-done	8e27514a5c86a315
