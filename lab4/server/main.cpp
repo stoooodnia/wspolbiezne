@@ -67,8 +67,26 @@ char* getMessage(char* message) {
     return tresc;
 }
 
+void handleSIGHUP(const int signal) {
+    printf("SIGHUP przechwycony: %d\n", signal);
+}
+
+void handleSIGTERM(const int signal) {
+    printf("SIGTERM przechwycony: %d\n", signal);
+}
+void handleSIGUSR1(int) {
+    printf("SIGUSR1 przechwycony, zamykanie serwera...\n");
+    exit(0);
+}
+
 
 int main() {
+
+    signal(SIGHUP, handleSIGHUP);
+    signal(SIGTERM, handleSIGUSR1);
+    signal(SIGUSR1, handleSIGUSR1);
+
+
 
     char* message;
     char* client_fifo_path;
