@@ -1,0 +1,4 @@
+/opt/homebrew/Cellar/cmake/HEAD-25eddc2/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab5/server -B /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab5/server/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab5/server/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab6/gra/cmake-build-debug/CMakeFiles/gra.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab6/gra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karolstudniarek/Desktop/REPOZYTORIA/5sem/wspolbiezne/lab6/gra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
