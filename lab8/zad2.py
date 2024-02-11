@@ -9,6 +9,11 @@ def sum_sublist(sublist, result_lock, result_list):
 
 
 def parallel_sum(data, num_threads):
+
+    if num_threads == 0:
+        print("num_threads must be greater than 0")
+        return 0
+
     list_len = len(data)
     chunk_size = list_len // num_threads
 

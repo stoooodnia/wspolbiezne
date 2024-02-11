@@ -48,7 +48,7 @@ def parallel_primary_finding(l, r, num_threads, barrier):
 
 if __name__ == "__main__":
     l = 2
-    r = 20
+    r = 100
     num_threads = 5
     bar = threading.Barrier(num_threads+1)
 
